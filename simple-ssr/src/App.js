@@ -26,7 +26,8 @@ const App = ({ isSSR, ssrData }) => {
   } else {
     return (
       <div>
-        <ProductList result={result} />
+        <input type="button" value="Create" ></input>
+        <input type="button" value="Join Existing" ></input>
       </div>
     );
   }
