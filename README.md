@@ -63,3 +63,4 @@ This solution can only be provisioned in the us-east-1 Region as it deploys Lamb
     `cdk destroy SSRApiStack`
     
     `cdk destroy SSRAppStack`
+
